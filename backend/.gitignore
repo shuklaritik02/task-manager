@@ -1,0 +1,4 @@
+  // .gitignore file for the backend of the task manager project
+
+  node_modules/
+  .env        
