@@ -21,6 +21,8 @@ app.use(express.urlencoded({ extended: true }));
 // ✅ Cookie parser
 app.use(cookieParser());
 
+// importing routes
 
+// ✅ Health check route
 
 export default app;
